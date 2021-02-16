@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @fatsoap
+* from Taiwan
+- 👀 I’m interested in ... 
+* frontend & backend
+- 🌱 I’m currently learning ...
+* React.js
+- 📫 How to reach me ...
+* g8sigma@icloud.com
+
