@@ -28,19 +28,25 @@ unknown		|4		|react why useState, how react render
 unknown		|4		|react to js => How babel works?
 unknown		|4		|react class components, life cycle of class components
 unknown		|4		|react hooks and class components compare
-2020/2/18 	|2		|bulid my project ( web frame ).
-2020/2/19 	|2		|Learn how to connect React frontend and Node.js backend with Api
-2020/2/20 	|2		|How file uploading works in Node.js using "Multer"
-2020/2/21 	|2		|Learn backend Authentication with Passport js.
-2020/2/22 	|2		|Using Mongoose to conect mongoDB Alta.
-2020/2/23 	|2		|bulid my project ( web frame ).
-2020/2/24 	|5		|Read Docs and Learn how to use "simple-react-validator" to validate from frontend.
-2020/2/25 	|5		|Deploy App to Heroku
-2020/2/27 	|4		|Learn why & how using ".env"
-2020/2/28 	|5		|Learn .gitignore usage & more about Version control.
-2020/2/29 	|3		|Learn how to use bootstrap styling.
-2020/3/1	|		|
-2020/3/2	|4		|What is Redux & how it works with React
-2020/3/3	|3		|Codeforces Educational Round 105 : Solve 3 problem;
+2021/2/18 	|2		|bulid my project ( web frame ).
+2021/2/19 	|2		|Learn how to connect React frontend and Node.js backend with Api
+2021/2/20 	|2		|How file uploading works in Node.js using "Multer"
+2021/2/21 	|2		|Learn backend Authentication with Passport js.
+2021/2/22 	|2		|Using Mongoose to conect mongoDB Alta.
+2021/2/23 	|2		|bulid my project ( web frame ).
+2021/2/24 	|5		|Read Docs and Learn how to use "simple-react-validator" to validate from frontend.
+2021/2/25 	|5		|Deploy App to Heroku
+2021/2/27 	|4		|Learn why & how using ".env"
+2021/2/28 	|5		|Learn .gitignore usage & more about Version control.
+2021/2/29 	|3		|Learn how to use bootstrap styling.
+2021/3/1	|		|
+2021/3/2	|4		|What is Redux & how it works with React
+2021/3/3	|3		|Codeforces Educational Round 105 : Solve 3 problem;
+2021/3/4	|3		|React Thunk => middleware in Redux
 
+## Newbie's Engineer Roadmap
 
+Node OS React Git Html JS CSS DS
+SSL, DNS, Passport, 
+
+![](diagram.svg)
