@@ -14,6 +14,7 @@
 
 Date		|Score	|Description	
 :---:		|:---:	|---
+unknown		|5		|Git
 unknown		|5		|Html, Javascript, Css
 unknown		|5		|Markdown
 unknown		|4		|Node.js : Express framework
@@ -38,4 +39,8 @@ unknown		|4		|react hooks and class components compare
 2020/2/27 	|4		|Learn why & how using ".env"
 2020/2/28 	|5		|Learn .gitignore usage & more about Version control.
 2020/2/29 	|3		|Learn how to use bootstrap styling.
+2020/3/1	|		|
+2020/3/2	|4		|What is Redux & how it works with React
+2020/3/3	|3		|Codeforces Educational Round 105 : Solve 3 problem;
+
 
