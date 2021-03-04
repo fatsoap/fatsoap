@@ -39,10 +39,12 @@ unknown		|4		|react hooks and class components compare
 2021/2/27 	|4		|Learn why & how using ".env"
 2021/2/28 	|5		|Learn .gitignore usage & more about Version control.
 2021/2/29 	|3		|Learn how to use bootstrap styling.
-2021/3/1	|		|
-2021/3/2	|4		|What is Redux & how it works with React
+2021/3/1	|		|What is Redux & how it works with React
+2021/3/2	|4		|React Thunk => middleware in Redux
 2021/3/3	|3		|Codeforces Educational Round 105 : Solve 3 problem;
-2021/3/4	|3		|React Thunk => middleware in Redux
+2021/3/4	|3		|Build blog which can read markdown (include CRUD articles) -> https://www.youtube.com/watch?v=1NrHkjlWVhM
+2021/3/5	|4		|Learn what is "marked", "dompurify", "jsdom", "slugify"
+2021/3/6	|4		|Learn what is "method-override", "mongoose pre validate & update & save "
 
 ## Newbie's Engineer Roadmap
 
