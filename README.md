@@ -45,8 +45,8 @@ unknown		|4		|react hooks and class components compare
 2021/3/4	|3		|Build blog which can read markdown (include CRUD articles) -> https://www.youtube.com/watch?v=1NrHkjlWVhM
 2021/3/5	|4		|Learn what is "marked", "dompurify", "jsdom", "slugify"
 2021/3/6	|4		|Learn what is "method-override", "mongoose pre validate & update & save "
-2021/3/7 	|3		|- tips : process.env.NODE_ENV==='production' requrie('dotenv').config() 
-					 - tips : Auth pages with identity -> pro code -> middleware
+2021/3/7 	|3		|* tips : process.env.NODE_ENV==='production' requrie('dotenv').config() <br />
+					 * tips : Auth pages with identity -> pro code -> middleware
 2021/3/8	|4		|build simple framework auth user with Passport.js, bcrypt, connect-flash
 2021/3/9	|3		|ejs class,
 2021/3/10	|4		|web sercurity : xss
