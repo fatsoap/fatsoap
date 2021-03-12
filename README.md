@@ -33,6 +33,7 @@ Node OS React Git Html JS CSS DS
 - class component, function component, JSX, babel, useState, props
 - lifecycle, didMount, didUpdate, willUnmount, hooks, useEffect, useRef
 - Redux, Redux-thunk
+- Google API OAuth
 
 ### OS
 ### Network

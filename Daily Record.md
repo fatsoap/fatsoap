@@ -49,6 +49,7 @@ Date		|Score	|Description
 2021/3/10	|2		|web sercurity : XSS (cross-site-scripting)
 2021/3/11	|3		|jsonWebToken (JWT) why and how ?
 2021/3/12	|1		|"nano id" 
-2021/3/13	|3		|Node.js JWT Auth Blog (jwt, nanoid, mongodb, markdown, React)
+2021/3/13	|3		|Node.js RESTful API with JWT Auth Blog (jwt, nanoid, mongodb, markdown, React)
+2021/3/14	|3		|Node.js RESTful API with JWT Auth Blog (jwt, nanoid, mongodb, markdown, React)
 
 

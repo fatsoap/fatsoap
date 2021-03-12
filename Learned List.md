@@ -47,4 +47,7 @@ Score	|Description
 1		|SSL
 1		|DNS
 1		|xss attack
+1		|"helmet"
+1		|resume
+1		|google api OAuth
 
