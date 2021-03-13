@@ -51,5 +51,6 @@ Date		|Score	|Description
 2021/3/12	|1		|"nano id" 
 2021/3/13	|3		|Node.js RESTful API with JWT Auth Blog (jwt, nanoid, mongodb, markdown, React)
 2021/3/14	|3		|Node.js RESTful API with JWT Auth Blog (jwt, nanoid, mongodb, markdown, React)
-
+2021/3/15   |2      |Learn "web sever" & "application server", how "Nginx" works
+2021/3/16   |1      |Initial Resume Wroted
 

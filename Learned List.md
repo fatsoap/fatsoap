@@ -50,4 +50,5 @@ Score	|Description
 1		|"helmet"
 1		|resume
 1		|google api OAuth
+1       |Nginx, web server
 

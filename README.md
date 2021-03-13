@@ -8,11 +8,11 @@
 * g8sigma@icloud.com
 ## 學習日誌:heart:Daily Record
 
-:memo: ![Daily Record](Daily Record.md) :memo:
+:memo: [Daily Record](Daily Record.md) :memo:
 
 ## Learned List :memo:
 
-![Learned List](Learned List.md)
+[Learned List](Learned List.md)
 
 ## Newbie's Engineer Roadmap
 
@@ -38,9 +38,9 @@ Node OS React Git Html JS CSS DS
 ### OS
 ### Network
 
-SSL, DNS,
-xss attack
-
+- SSL, DNS, DDoS
+- xss attack
+- SQL Injection, CSRF, Upload file script, Encoded Importent Data
 
 
 ![](diagram.svg)
