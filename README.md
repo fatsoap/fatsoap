@@ -1,6 +1,10 @@
 ##
 
 <p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fatsoap&theme=prussian" />
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="190" src="https://github-readme-stats-peach-two.vercel.app/api?username=fatsoap&show_icons=true&count_private=true&theme=prussian" />
   </a>
