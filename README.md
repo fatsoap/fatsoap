@@ -57,7 +57,3 @@
 ![gitlab](https://img.shields.io/badge/-Gitlab-181717?logo=gitlab&logoColor=white)
 ![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
 
-### 🎨 Design Tool
-
-![figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-
